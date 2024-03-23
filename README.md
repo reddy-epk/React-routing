@@ -1,4 +1,4 @@
-In this project, let's build a **Routing Practice** app by applying the concepts we have learned till now.
+Building a **React-Routing**
 
 ### Refer to the image below:
 
@@ -25,21 +25,6 @@ In this project, let's build a **Routing Practice** app by applying the concepts
 
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
-</details>
-
-### Completion Instructions
-
-<details>
-<summary>Functionality to be added</summary>
-<br/>
-
-The app must have the following functionalities
-
-- When the **About** link in the header is clicked, then the page should navigate to the `AboutRoute`
-- When the **Contact** link in the header is clicked, then the page should navigate to the `ContactRoute`
-- When the **Home** link in the header is clicked, then the page should navigate back to the `HomeRoute`
-- When an undefined path is provided in the URL, then the page should navigate to the `NotFoundRoute`
-
 </details>
 
 <details>
@@ -127,5 +112,4 @@ Use these files to complete the implementation:
 >
 > - All components you implement should go in the `src/components` directory.
 > - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+
